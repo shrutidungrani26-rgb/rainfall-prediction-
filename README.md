@@ -16,3 +16,11 @@ python project.py
 
 shruti dungrani -roll no 531
 dharmi bhungani -roll no 534
+
+
+## features
+
+data preprocessing
+machine-learning prediction
+charts and reports
+model evaluation
